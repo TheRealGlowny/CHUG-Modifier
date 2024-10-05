@@ -6,7 +6,7 @@ A simple file that can let you change your cpu and gpu name :D
 https://youtu.be/Ee8wjwfG1Ow
 
 
-Useful things ;
+Useful things :
 install tkinter with pip
 
 **REGEDIT dir**
